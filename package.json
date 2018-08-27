@@ -1,0 +1,22 @@
+{
+  "name": "nodewordguessgame",
+  "version": "1.0.0",
+  "description": "Command line word guess game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalehoux/nodewordguessgame.git"
+  },
+  "author": "Jacob Lehoux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalehoux/nodewordguessgame/issues"
+  },
+  "homepage": "https://github.com/jalehoux/nodewordguessgame#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
